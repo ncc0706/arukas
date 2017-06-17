@@ -1,0 +1,6 @@
+
+## 监控配置
+management:
+  context-path: /sys-app
+  security:
+    enabled: false
